@@ -160,3 +160,18 @@
 - [Lecture 1](http://unesco.kemsu.ru/study_work/method/OS_DO/lect_1.pdf)
 
 ---------------------------------------
+![SY](https://i.imgur.com/xH8HWn4.png)
+
+- [OS-SY](https://spu.edu.sy/downloads/files/1559418439_Brief%20History.pptx)
+- [OS Intro](https://spu.edu.sy/downloads/files/1559418587_ch2.pdf)
+- [Lecture 1](https://spu.edu.sy/downloads/files/1559418540_ch1.ppt)
+
+---------------------------------------
+
+
+
+
+
+
+
+
